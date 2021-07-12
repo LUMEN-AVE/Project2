@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Perfect\sam\bin\Debug\net5.0\sam.exe
+C:\Users\HP\Desktop\Perfect\sam\bin\Debug\net5.0\sam.deps.json
+C:\Users\HP\Desktop\Perfect\sam\bin\Debug\net5.0\sam.runtimeconfig.json
+C:\Users\HP\Desktop\Perfect\sam\bin\Debug\net5.0\sam.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Perfect\sam\bin\Debug\net5.0\sam.dll
+C:\Users\HP\Desktop\Perfect\sam\bin\Debug\net5.0\ref\sam.dll
+C:\Users\HP\Desktop\Perfect\sam\bin\Debug\net5.0\sam.pdb
+C:\Users\HP\Desktop\Perfect\sam\obj\Debug\net5.0\sam.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Perfect\sam\obj\Debug\net5.0\sam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Perfect\sam\obj\Debug\net5.0\sam.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Perfect\sam\obj\Debug\net5.0\sam.AssemblyInfo.cs
+C:\Users\HP\Desktop\Perfect\sam\obj\Debug\net5.0\sam.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Perfect\sam\obj\Debug\net5.0\sam.dll
+C:\Users\HP\Desktop\Perfect\sam\obj\Debug\net5.0\ref\sam.dll
+C:\Users\HP\Desktop\Perfect\sam\obj\Debug\net5.0\sam.pdb
+C:\Users\HP\Desktop\Perfect\sam\obj\Debug\net5.0\sam.genruntimeconfig.cache
